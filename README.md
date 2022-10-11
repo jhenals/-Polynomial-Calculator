@@ -1,4 +1,4 @@
-# -Polynomial-Calculator
+# Polynomial-Calculator
 This simple project uses the GUI interface of Java to give the user an easy-to-use application capable of solving elementary operations for polynomial equations.
 
 This is a university project written in Italian for my Object-Oriented-Programming Course (AA 2020-2021)
