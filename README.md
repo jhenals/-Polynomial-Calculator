@@ -3,7 +3,7 @@
 This simple project uses the GUI interface of Java to give the user an easy-to-use application capable of solving elementary operations for polynomial equations.
 
 ## To Read
-This is a university project written in Italian for my Object-Oriented-Programming Course (AA 2020-2021). This project aims to apply our knowledge of the GUI interface of Java.
+This is a university project written in Italian for my Object-Oriented-Programming Course (AA 2020-2021). This project aims to apply our knowledge of the GUI interface of Java. The package _polinomi_ was already provided by our professor while our task is to write a java file for the GUI aplication (_PolinomiGUI.java_)
 
 ## Description (in Italian)
 Polinomi
@@ -28,4 +28,6 @@ da applicare ai due polinomi, con memorizzazione del polinomio risultato nel Che
    il menù File, il menù comandi etc. o, in alternativa, mediante un pop-up menù da attivare col 
    click destro del mouse sul componente grafico
 
+
 ##Screenshot
+![Polynomial Equation Calc](https://user-images.githubusercontent.com/77573528/196042978-336e6e53-8611-4c9f-a781-8b4dd9b1a12f.png)
