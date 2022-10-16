@@ -20,10 +20,10 @@ This is a university project written in Italian for my Object-Oriented-Programmi
 * Choosing 1 polynomial in the checkbox makes Derivative and Value menu valid. 
    ![image](https://user-images.githubusercontent.com/77573528/196044219-ef41e93c-e05a-4c29-9452-fa3a95b751a8.png)
  
-* When the user choose 2 polynomials in the checkbox, the Sum and Product menu become valid. 
+* When the user chooses 2 polynomials in the checkbox, the Sum and Product menu become valid. 
    ![image](https://user-images.githubusercontent.com/77573528/196044244-a4521d6d-5cf7-46fa-9b9b-a59ec554e481.png)
 
-* When the user choose _Valore_ , the program will ask the user for the desired value of x in which the polynomial will be solved. 
+* When the user chooses _Valore_ , the program will ask the user for the desired value of x in which the polynomial will be solved. 
    ![value](https://user-images.githubusercontent.com/77573528/196044327-388b7cdc-a8c8-4795-89af-e6da6b5263cd.png)
 
 * For more info, click the _Help_ button
