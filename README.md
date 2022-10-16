@@ -29,5 +29,5 @@ da applicare ai due polinomi, con memorizzazione del polinomio risultato nel Che
    click destro del mouse sul componente grafico
 
 
-##Screenshot
+## Screenshot
 ![Polynomial Equation Calc](https://user-images.githubusercontent.com/77573528/196042978-336e6e53-8611-4c9f-a781-8b4dd9b1a12f.png)
