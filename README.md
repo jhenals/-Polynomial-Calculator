@@ -12,11 +12,20 @@ This is a university project written in Italian for my Object-Oriented-Programmi
 ## How to use
 * Users will type the polynomial in the text box. 
 * Clicking the _Inserisci_ button will insert the polynomial expression in the Check box (yellow part)
+   ![image](https://user-images.githubusercontent.com/77573528/196044194-8b0c28b2-1f4b-48dd-9077-f08e9954b470.png)
+
 * User can manipulate all the inserted polynomials using the command button which will display the following operation: Sum, Product, Derivative and Evaluation of the polynomial for a given value of the variable x. 
-![image](https://user-images.githubusercontent.com/77573528/196043689-537da939-6c77-41e2-bb13-5a29877d1cee.png)
+   ![image](https://user-images.githubusercontent.com/77573528/196043689-537da939-6c77-41e2-bb13-5a29877d1cee.png)
+
+* Choosing 1 polynomial in the checkbox makes Derivative and Value menu valid. 
+   ![image](https://user-images.githubusercontent.com/77573528/196044219-ef41e93c-e05a-4c29-9452-fa3a95b751a8.png)
+ 
 * When the user choose 2 polynomials in the checkbox, the Sum and Product menu become valid. 
-* Choosing 1 polynomial in the checkbox makes Derivative and Value menu valid.  
+   ![image](https://user-images.githubusercontent.com/77573528/196044244-a4521d6d-5cf7-46fa-9b9b-a59ec554e481.png)
+
 * When the user choose _Valore_ , the program will ask the user for the desired value of x in which the polynomial will be solved. 
+   ![value](https://user-images.githubusercontent.com/77573528/196044327-388b7cdc-a8c8-4795-89af-e6da6b5263cd.png)
+
 * For more info, click the _Help_ button
 
 ## Description (in Italian)
