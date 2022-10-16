@@ -1,8 +1,11 @@
-# Polynomial-Calculator
+# Polynomial-Calculator 
+## Overview
 This simple project uses the GUI interface of Java to give the user an easy-to-use application capable of solving elementary operations for polynomial equations.
 
-This is a university project written in Italian for my Object-Oriented-Programming Course (AA 2020-2021)
+## To Read
+This is a university project written in Italian for my Object-Oriented-Programming Course (AA 2020-2021). This project aims to apply our knowledge of the GUI interface of Java.
 
+## Description (in Italian)
 Polinomi
 - Partendo dalle classi/interfacce sviluppate a lezione, si desidera completare l’applicazione dei 
 polinomi mediante una GUI che consenta (almeno) le seguenti operazioni:
@@ -24,3 +27,5 @@ da applicare ai due polinomi, con memorizzazione del polinomio risultato nel Che
    Tutti i comandi dovrebbero essere evocati mediante una struttura a menù che includa, almeno, 
    il menù File, il menù comandi etc. o, in alternativa, mediante un pop-up menù da attivare col 
    click destro del mouse sul componente grafico
+
+##Screenshot
