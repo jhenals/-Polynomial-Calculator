@@ -5,6 +5,20 @@ This simple project uses the GUI interface of Java to give the user an easy-to-u
 ## To Read
 This is a university project written in Italian for my Object-Oriented-Programming Course (AA 2020-2021). This project aims to apply our knowledge of the GUI interface of Java. The package _polinomi_ was already provided by our professor while our task is to write a java file for the GUI aplication (_PolinomiGUI.java_)
 
+## Screenshot
+![Polynomial Equation Calc](https://user-images.githubusercontent.com/77573528/196042978-336e6e53-8611-4c9f-a781-8b4dd9b1a12f.png)
+
+
+## How to use
+* Users will type the polynomial in the text box. 
+* Clicking the _Inserisci_ button will insert the polynomial expression in the Check box (yellow part)
+* User can manipulate all the inserted polynomials using the command button which will display the following operation: Sum, Product, Derivative and Evaluation of the polynomial for a given value of the variable x. 
+![image](https://user-images.githubusercontent.com/77573528/196043689-537da939-6c77-41e2-bb13-5a29877d1cee.png)
+* When the user choose 2 polynomials in the checkbox, the Sum and Product menu become valid. 
+* Choosing 1 polynomial in the checkbox makes Derivative and Value menu valid.  
+* When the user choose _Valore_ , the program will ask the user for the desired value of x in which the polynomial will be solved. 
+* For more info, click the _Help_ button
+
 ## Description (in Italian)
 Polinomi
 - Partendo dalle classi/interfacce sviluppate a lezione, si desidera completare l’applicazione dei 
@@ -29,5 +43,3 @@ da applicare ai due polinomi, con memorizzazione del polinomio risultato nel Che
    click destro del mouse sul componente grafico
 
 
-## Screenshot
-![Polynomial Equation Calc](https://user-images.githubusercontent.com/77573528/196042978-336e6e53-8611-4c9f-a781-8b4dd9b1a12f.png)
