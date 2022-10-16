@@ -9,7 +9,7 @@ This is a university project written in Italian for my Object-Oriented-Programmi
 ![Polynomial Equation Calc](https://user-images.githubusercontent.com/77573528/196042978-336e6e53-8611-4c9f-a781-8b4dd9b1a12f.png)
 
 
-## How to use
+## How to use / Description in English
 * Users will type the polynomial in the text box. 
 * Clicking the _Inserisci_ button will insert the polynomial expression in the Check box (yellow part)
    ![image](https://user-images.githubusercontent.com/77573528/196044194-8b0c28b2-1f4b-48dd-9077-f08e9954b470.png)
